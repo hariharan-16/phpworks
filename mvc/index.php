@@ -1,7 +1,7 @@
 <?php
 
-  require_once 'model/productmodel.php';
-  require_once 'controller/productcontroller.php';
+  require_once 'model/model.php';
+  require_once 'controller/controller.php';
 
   $productctrl->renderproduct();
 
